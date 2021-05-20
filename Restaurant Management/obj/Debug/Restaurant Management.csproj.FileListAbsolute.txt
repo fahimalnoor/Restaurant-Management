@@ -1,0 +1,65 @@
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csprojAssemblyReference.cache
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.dll
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.LoginPage.resources
+C:\Users\saqif\source\repos\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.AdminDashboard.resources
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.dll
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csprojAssemblyReference.cache
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.AdminDashboard.resources
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.LoginPage.resources
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\prodi\Downloads\Restaurant Management-20190811T124726Z-001\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Employee.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.dll
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.AdminDashboard.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.LoginPage.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Menu.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Table.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Order.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Waiter_Dashboard.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.AddEmployee.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ManageAdmin.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ManageManager.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ManageWaiter.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.OrderWaiter.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.TakeOrder.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ViewCart.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.Manager_Dashboard.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ViewMenu.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ViewOrder.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ViewTable.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ViewWaiters.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ManagerGenarateBill.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.AdminFinancial.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.ManagerFinancial.resources
+C:\Users\saqif\Desktop\C# Projecct\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.ApplicationLayer.WaiterMenu.resources
